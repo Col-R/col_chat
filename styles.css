@@ -1,0 +1,21 @@
+body{
+    background-color: #2c2f33;
+}
+h1 {
+    color: #7289da
+}
+.my-2{
+    color: whitesmoke;
+}
+.container{
+    max-width: 600px;
+}
+.btn{
+    background: #7289da;
+    color: white;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.btn:focus{
+    outline: none !important;
+}
