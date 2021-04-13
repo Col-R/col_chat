@@ -27,3 +27,7 @@ h1 {
     font-style: italic;
     color:grey
 }
+.update-msg{
+    color: grey;
+    text-align: center;
+}
