@@ -1,8 +1,3 @@
-// adding new chat documents
-// setting up a real time listener to get new chats
-// updating the username
-// updating the channel
-
 class Chatroom {
     constructor(channel, username){
         this.channel = channel;
